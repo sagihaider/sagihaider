@@ -1,25 +1,20 @@
 ### Hi there 👋
 
-About me
+About Me
+======
 
-I am a Lecturer in Artificial Intelligence for Decision-Making at the School of Computer Science and Electronic Engineering in the [University of Essex](https://www.essex.ac.uk/) (UoE). Before joining on Lecturer position, I was a postdoctoral research fellow (IADS) at the UoE. I also worked at [Swansea University](https://www.swansea.ac.uk/) as a Postdoctoral Research Officer in Machine Learning. Before coming to the mainland, I spent approximately 4 years in Northern Ireland, UK where I completed my PhD under the supervision of Professor Girijesh Prasad and Dr Hubert Cecotti at the [University of Ulster](https://www.ulster.ac.uk/). I have completed a master’s degree in Computer Engineering from [Manav Rachna International University](https://manavrachna.edu.in/), India; and a bachelor’s degree in Computer Science and Engineering from [Integral University](http://iul.ac.in/), India. 
-
-I completed my primary and secondary education during 1991-2003 from [Colvin Taluqdars’ College](https://en.wikipedia.org/wiki/Colvin_Taluqdars%27_College) in Lucknow, which is one of the oldest private schools in India. I was born in the city of [Lucknow](https://en.wikipedia.org/wiki/Lucknow) and spent nearly 24 years. Here is a [YouTube](https://www.youtube.com/watch?v=dS2fpg-SdJ8) video if you want to see Lucknow.
+I am a Lecturer in Artificial Intelligence for Decision-Making at the School of Computer Science and Electronic Engineering in the [University of Essex](https://www.essex.ac.uk/) (UoE). Before joining on Lecturer position, I was a postdoctoral research fellow (IADS) at the UoE. I also worked at [Swansea University](https://www.swansea.ac.uk/) as a Postdoctoral Research Officer in Machine Learning. Before coming to the mainland, I spent approximately 4 years in Northern Ireland, UK where I completed my PhD under the supervision of Professor Girijesh Prasad and Dr Hubert Cecotti at the [University of Ulster](https://www.ulster.ac.uk/). I have completed a master’s degree in Computer Engineering from [Manav Rachna International University](https://manavrachna.edu.in/), India; and a bachelor’s degree in Computer Science and Engineering from [Integral University](http://iul.ac.in/), India. I completed my primary and secondary education during 1991-2003 from [Colvin Taluqdars’ College](https://en.wikipedia.org/wiki/Colvin_Taluqdars%27_College) in Lucknow, which is one of the oldest private schools in India. I was born in the city of [Lucknow](https://en.wikipedia.org/wiki/Lucknow) and spent nearly 24 years. Here is a [YouTube](https://www.youtube.com/watch?v=dS2fpg-SdJ8) video if you want to see Lucknow.
 
 Research interests
-======
-My research interests and activities focus on the artificial intelligence machine learning for decision making, non-stationary learning, brain-computer interface, EEG/MEG signal processing, computer vision, and computational intelligence methods for healthcare, businesses, and environment. I work on the development of intelligent systems and practices my skills on the following programming languages: Python, Matlab, and R. 
-
+====== 
 I am associated to the following research groups at the University of Essex:
-1. [AI for Decision Making](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/ai-for-decision-making) 
+1. [AI for Decision Making](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/ai-for-decision-making)
 2. [Brain-Computer Interfacing](http://essexbcis.uk/)
 3. [Computer Vision](https://essexnlip.uk/computer-vision/)
 
 The word cloud given below highlights the keywords related to my research directions. 
-
-
 <p align="center">
-  <img width="400" height="400" src="wordcloud.png">
+  <img width="500" height="400" src="wordcloud.png">
 </p>
 
 
